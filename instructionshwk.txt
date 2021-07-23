@@ -1,0 +1,16 @@
+Instructions:
+
+This application can be run from the Terminal once in the suitable directory as:
+
+python hwkqueueco.py
+
+You will need the following libraries for Python installed on your computer if you do not have these already:
+
+websocket, json
+
+In your terminal you will see the data in the following form across four columns:
+
+bid price level, quantity available at this price - ask price level, quantity available at this price
+
+The application will continue to run until terminated, with a keyboard interrupt.
+
